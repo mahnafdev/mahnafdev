@@ -1,65 +1,78 @@
-<img src="https://surl.li/qhxsnf" style="width: 100%; filter: brightness(110%) contrast(110%);" />
-<h1 style="text-align: center;">Muhammad Ahnaf</h1>
-<h2 style="text-align: center;">Full-Stack Web Developer</h2>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQG3erHyDJY6EA/profile-displaybackgroundimage-shrink_350_1400/B56ZiHppOeHkAg-/0/1754622498525?e=1759363200&v=beta&t=ogzWIB9BhX7uPrsSwQVcgzHXdzG0W7mkXJsb4d02uUU" style="width: 100%;" />
+
+# Muhammad Ahnaf
+## Full-Stack Web Developer
 
 ## 👨🏻‍💻 About Me
 
-🙋🏻‍♂️ Howdy! I'm **Ahnaf**, a **Full-Stack Web Developer** specialized in MERN stack & Next.js. I love building efficient, gorgeous, clean, and user-friendly web applications.
+🙋🏻‍♂️ Howdy! I'm **Ahnaf**, a **Full-Stack Developer** who loves building clean, efficient, and user-friendly web & mobile applications. I specialize in **MERN stack, Next.js, React Native** with a focus on writing optimized code, developing flexible features, solving problems logically, and enhancing performance & user experience.
 
 ## 📌 Current Activities
 
--   **🌲 Currently Learning:** Next.js Advanced Concepts, MERN applications optimization
--   **🛠️ Currently Building:** Tourism Management application named 'TourNext'
--   **💙 Hobbies:** 🏍️ Travel & Discover | 🔥 Fry the Friday | 🖼️ Develop Fantastic Applications
--   **😄 Fun Fact:** I love to analyze & overthink everyday
--   **🔋 My Charger:** Tea & Anime
+-   🌱 **Currently Learning:** Next.js Advanced Concepts, React Native and Expo, MERN application optimization
+-   🛠️ **Currently Building:** Lumora - Mini Social Media mobile app
+-   💙 **Hobbies:** 🏍️ Travel & Discover | 🔥 Fry the Friday | 🖼️ Develop Fantastic Applications
+-   😄 **Fun Fact:** I love to analyze & overthink daily
+-   🔋 **My Charger:** Tea & Anime
 
 ## 🛠️ Technologies & Tools
 
-### 🖼️ Frontend & UI
+### 💻 Web App
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![HTML](https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html5&logoColor=e34f26&color=22222f)
+![CSS](https://img.shields.io/badge/css-8855bb?style=for-the-badge&logo=css&logoColor=7744aa&color=22222f)
+![JavaScript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&color=22222f)
+![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=3178c6&color=22222f)
+![NodeJS](https://img.shields.io/badge/node.js-5fa04e?style=for-the-badge&logo=node.js&logoColor=5fa04e&color=22222f)
+![Tailwind CSS](https://img.shields.io/badge/tailwind-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4&color=22222f)
+![ExpressJS](https://img.shields.io/badge/express-ffffff?style=for-the-badge&logo=express&logoColor=ffffff&color=22222f)
+![Next.js](https://img.shields.io/badge/next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=ffffff&color=22222f)
+![React](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=61dafb&color=22222f)
+![React Router](https://img.shields.io/badge/react_router-ca4245?style=for-the-badge&logo=reactrouter&logoColor=ca4245&color=22222f)
+![DaisyUI](https://img.shields.io/badge/daisyui-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=1ad1a5&color=22222f)
+![Headless UI](https://img.shields.io/badge/headless_ui-66e3ff?style=for-the-badge&logo=headlessui&logoColor=66e3ff&color=22222f)
+![TanStack Query](https://img.shields.io/badge/tanstack_query-ff4154?style=for-the-badge&logo=reactquery&logoColor=ff4154&color=22222f)
+![Axios](https://img.shields.io/badge/axios-7a49f7?style=for-the-badge&logo=axios&logoColor=7a49f7&color=22222f)
+![React Hook Form](https://img.shields.io/badge/react_hook_form-ec5990?style=for-the-badge&logo=reacthookform&logoColor=fd6aa1&color=22222f)
+![Lucide Icons](https://img.shields.io/badge/lucide-f56565?style=for-the-badge&logo=lucide&logoColor=f56565&color=22222f)
+![Stripe](https://img.shields.io/badge/stripe-635bff?style=for-the-badge&logo=stripe&logoColor=635bff&color=22222f)
+![React Leaflet](https://img.shields.io/badge/leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=199900&color=22222f)
+![Swiper](https://img.shields.io/badge/swiper-6332f6?style=for-the-badge&logo=swiper&logoColor=6f42ff&color=22222f)
+![Firebase (Auth)](https://img.shields.io/badge/firebase-ff4c00?style=for-the-badge&logo=firebase&logoColor=ff4c00&color=22222f)
+![JSON Web Tokens](https://img.shields.io/badge/jwt-ffffff?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff&color=22222f)
+![MongoDB](https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logo=mongodb&logoColor=47a248&color=22222f)
 
-### ⚙️ Backend & Database
+### 📱 Mobile App
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Android](https://img.shields.io/badge/android-3ddc84?style=for-the-badge&logo=android&logoColor=3ddc84&color=22222f)
+![iOS](https://img.shields.io/badge/ios-ffffff?style=for-the-badge&logo=ios&logoColor=ffffff&color=22222f)
+![React Native](https://img.shields.io/badge/react_native-61dafb?style=for-the-badge&logo=react&logoColor=61dafb&color=22222f)
+![Expo](https://img.shields.io/badge/expo-e3dfdb?style=for-the-badge&logo=expo&logoColor=e3dfdb&color=22222f)
+![Clerk](https://img.shields.io/badge/clerk-7d58ff?style=for-the-badge&logo=clerk&logoColor=7d58ff&color=22222f)
+![Convex](https://img.shields.io/badge/convex-ee342f?style=for-the-badge&logo=convex&color=22222f)
+![Ionicons](https://img.shields.io/badge/ionicons-3880ff?style=for-the-badge&logo=ionic&logoColor=3880ff&color=22222f)
 
-### 🔐 Authentication
+### 🖥️ Software
 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![C](https://img.shields.io/badge/c-a8b9cc?style=for-the-badge&logo=c&logoColor=a8b9cc&color=22222f)
+![C++](https://img.shields.io/badge/c%2B%2B-2079bc?style=for-the-badge&logo=cplusplus&logoColor=2079bc&color=22222f)
+![Python](https://img.shields.io/badge/python-4887bc?style=for-the-badge&logo=python&logoColor=4887bc&color=22222f)
+![MySQL](https://img.shields.io/badge/mysql-88bde5?style=for-the-badge&logo=mysql&logoColor=88bde5&color=22222f)
 
-### 🔗 Deployment & Hosting
+### 🛠️ Other Tools
 
-![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### 🗃️ Version Control
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### 🔦 Other Tools
-
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=f05032&color=22222f)
+![NPM](https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=cb3837&color=22222f)
+![.ENV](https://img.shields.io/badge/.env-ecd53f?style=for-the-badge&logo=.env&logoColor=ecd53f&color=22222f)
+![Grammarly](https://img.shields.io/badge/grammarly-128e7f?style=for-the-badge&logo=grammarly&logoColor=128e7f&color=22222f)
+![Prettier](https://img.shields.io/badge/prettier-f7b93e?style=for-the-badge&logo=prettier&logoColor=f7b93e&color=22222f)
+![Markdown](https://img.shields.io/badge/markdown-ffffff?style=for-the-badge&logo=markdown&logoColor=ffffff&color=22222f)
+![ESLint](https://img.shields.io/badge/eslint-6b52e3?style=for-the-badge&logo=eslint&logoColor=6b52e3&color=22222f)
+![Excalidraw](https://img.shields.io/badge/excalidraw-6965db?style=for-the-badge&logo=excalidraw&logoColor=6965db&color=22222f)
+![Notion](https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=ffffff&color=22222f)
+![BrandFetch](https://img.shields.io/badge/brandfetch-0084ff?style=for-the-badge&logo=brandfetch&logoColor=0084ff&color=22222f)
+![Swagger](https://img.shields.io/badge/swagger-85ea2d?style=for-the-badge&logo=swagger&logoColor=85ea2d&color=22222f)
+![OBS Studio](https://img.shields.io/badge/obs-cfd1ce?style=for-the-badge&logo=obsstudio&logoColor=cfd1ce&color=22222f)
 
 ## 👥 Social
 
@@ -67,8 +80,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231866F2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mahnafdev)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mahnafdev)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@mahnafdev)
-
-### 📞 WhatsApp: `+8801710243940`
 
 ## 📊 GitHub Stats
 
