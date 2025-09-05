@@ -98,16 +98,16 @@
 
 ## 📊 GitHub Analytics & Streak
 
-![](https://github-readme-stats.vercel.app/api?username=mahnafdev&card_width=400px&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=mahnafdev&card_width=400px&theme=github_dark&hide_border=true&custom_title=GitHub+Stats+Overview&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app?user=mahnafdev&card_width=400px&theme=github_dark&hide_border=true)
 
 ## 📈 Utilized Languages & Top Repos
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahnafdev&card_width=350px&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=mahnafdev&theme=github_dark&hide_border=true&limit=5&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahnafdev&card_width=325px&theme=github_dark&hide_border=true&custom_title=Languages+I+Utilized&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=mahnafdev&theme=github_dark&hide_border=true&custom_title=Highly+Contributed+(Top)+Repos&limit=5&combine_all_yearly_contributions=true)
 
 ---
 
-## 📜 Today's Quote
+## 📜 A Quote for Your Today
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
