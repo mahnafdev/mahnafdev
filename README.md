@@ -98,7 +98,7 @@
 
 ## 📊 GitHub Analytics & Streak
 
-![](https://github-readme-stats.vercel.app/api?username=mahnafdev&card_width=400px&theme=github_dark&hide_border=true&custom_title=GitHub+Stats+Overview&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=mahnafdev&card_width=350px&theme=github_dark&hide_border=true&custom_title=GitHub+Stats+Overview&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app?user=mahnafdev&card_width=400px&theme=github_dark&hide_border=true)
 
 ## 📈 Utilized Languages & Top Repos
@@ -110,4 +110,4 @@
 
 ## 📜 A Quote for Your Today
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&card_width=500px&theme=github_dark)
