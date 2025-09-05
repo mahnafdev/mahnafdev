@@ -1,21 +1,28 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQG3erHyDJY6EA/profile-displaybackgroundimage-shrink_350_1400/B56ZiHppOeHkAg-/0/1754622498525?e=1759363200&v=beta&t=ogzWIB9BhX7uPrsSwQVcgzHXdzG0W7mkXJsb4d02uUU" style="width: 100%;" />
 
-# Muhammad Ahnaf
-## Full-Stack Web Developer
+<h1 align="center">Muhammad Ahnaf</h1>
+<h2 align="center">Full-Stack Developer</h3>
 
-## 👨🏻‍💻 About Me
+---
+
+## 🔰 Overview of Me
 
 🙋🏻‍♂️ Howdy! I'm **Ahnaf**, a **Full-Stack Developer** who loves building clean, efficient, and user-friendly web & mobile applications. I specialize in **MERN stack, Next.js, React Native** with a focus on writing optimized code, developing flexible features, solving problems logically, and enhancing performance & user experience.
 
-## 📌 Current Activities
+---
 
--   🌱 **Currently Learning:** Next.js Advanced Concepts, React Native and Expo, MERN application optimization
--   🛠️ **Currently Building:** Lumora - Mini Social Media mobile app
--   💙 **Hobbies:** 🏍️ Travel & Discover | 🔥 Fry the Friday | 🖼️ Develop Fantastic Applications
--   😄 **Fun Fact:** I love to analyze & overthink daily
+## 📍 Facts About Me
+
+-   🌱 **Currently Learning:** Mobile App Dev with React Native
+-   🛠️ **Currently Building:** Lumora - Mini Social Media Mobile App
+-   🖤 **Hobbies:** 🏍️ Travel & Discover | 🔥 Fry the Friday | 🈸 Develop Modern Applications
+-   😄 **Fun Fact:** I analyze & overthink daily
 -   🔋 **My Charger:** Tea & Anime
+-   📎 **Favorite Dialogue:** Dattebayo (Meaning: Believe It)
 
-## 🛠️ Technologies & Tools
+---
+
+## ⚙️ Techs & Tools
 
 ### 💻 Web App
 
@@ -74,29 +81,31 @@
 ![Swagger](https://img.shields.io/badge/swagger-85ea2d?style=for-the-badge&logo=swagger&logoColor=85ea2d&color=22222f)
 ![OBS Studio](https://img.shields.io/badge/obs-cfd1ce?style=for-the-badge&logo=obsstudio&logoColor=cfd1ce&color=22222f)
 
-## 👥 Social
+---
 
-[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahnafdev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231866F2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mahnafdev)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mahnafdev)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@mahnafdev)
+## 👥 Social & Competitive Programming
 
-## 📊 GitHub Stats
+[![Email](https://img.shields.io/badge/email-ea4335?style=for-the-badge&logo=gmail&logoColor=ea4335&color=22222f)](mailto:mahnafdev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-1877ff?style=for-the-badge&logo=linkedin&logoColor=1877ff&color=22222f)](https://www.linkedin.com/in/mahnafdev)
+[![Facebook](https://img.shields.io/badge/facebook-1877ff?style=for-the-badge&logo=facebook&logoColor=2888ff&color=22222f)](https://web.facebook.com/mahnafdev)
+[![CodeForces](https://img.shields.io/badge/codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=1f8acb&color=22222f)](https://codeforces.com/profile/Muhammad_Ahnaf)
+[![LeetCode](https://img.shields.io/badge/leetcode-ffa116?style=for-the-badge&logo=leetcode&logoColor=ffa116&color=22222f)](https://leetcode.com/u/mahnafpro)
+[![HackerRank](https://img.shields.io/badge/hackerrank-00ba54?style=for-the-badge&logo=hackerrank&logoColor=00ba54&color=22222f)](https://www.hackerrank.com/profile/mahnafpro)
 
-![](https://github-readme-stats.vercel.app/api?username=mahnafdev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+---
 
-## 📈 Languages Used
+## 📊 GitHub Analytics & Streak
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahnafdev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mahnafdev&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=mahnafdev&theme=github_dark&hide_border=true)
 
-## 📉 Contributions & Streak
+## 📈 Utilized Languages & Top Repos
 
-![](https://nirzak-streak-stats.vercel.app/?user=mahnafdev&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahnafdev&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=mahnafdev&theme=github_dark&hide_border=true&limit=5&combine_all_yearly_contributions=true)
 
-### 🔝 Top Contributed Repo
+---
 
-![](https://github-contributor-stats.vercel.app/api?username=mahnafdev&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true)
+## 📜 Today's Quote
 
-### 📜 Today's Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
