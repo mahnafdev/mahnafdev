@@ -1,3 +1,5 @@
+<p align="center">Please view the profile with Dark theme❕</p>
+
 <img src="https://media.licdn.com/dms/image/v2/D5616AQG3erHyDJY6EA/profile-displaybackgroundimage-shrink_350_1400/B56ZiHppOeHkAg-/0/1754622498525?e=1759363200&v=beta&t=ogzWIB9BhX7uPrsSwQVcgzHXdzG0W7mkXJsb4d02uUU" style="width: 100%;" />
 
 <h1 align="center">Muhammad Ahnaf</h1>
@@ -96,12 +98,12 @@
 
 ## 📊 GitHub Analytics & Streak
 
-![](https://github-readme-stats.vercel.app/api?username=mahnafdev&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=mahnafdev&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=mahnafdev&card_width=400px&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app?user=mahnafdev&card_width=400px&theme=github_dark&hide_border=true)
 
 ## 📈 Utilized Languages & Top Repos
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahnafdev&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahnafdev&card_width=350px&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-contributor-stats.vercel.app/api?username=mahnafdev&theme=github_dark&hide_border=true&limit=5&combine_all_yearly_contributions=true)
 
 ---
