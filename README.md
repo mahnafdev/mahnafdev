@@ -1,30 +1,26 @@
-<p align="center">Please view the profile with Dark theme❕</p>
-
-<img src="https://media.licdn.com/dms/image/v2/D5616AQG3erHyDJY6EA/profile-displaybackgroundimage-shrink_350_1400/B56ZiHppOeHkAg-/0/1754622498525?e=1759363200&v=beta&t=ogzWIB9BhX7uPrsSwQVcgzHXdzG0W7mkXJsb4d02uUU" style="width: 100%;" />
-
 <h1 align="center">Muhammad Ahnaf</h1>
-<h2 align="center">Full-Stack Developer</h3>
+<h2 align="center">Software Developer</h3>
 
 ---
 
-## 🔰 Overview of Me
+## 🔰 Basically Who Am I?
 
-🙋🏻‍♂️ Howdy! I'm **Ahnaf**, a **Full-Stack Developer** who loves building clean, efficient, and user-friendly web & mobile applications. I specialize in **MERN stack, Next.js, React Native** with a focus on writing optimized code, developing flexible features, solving problems logically, and enhancing performance & user experience.
+🙋🏻‍♂️ Howdy! I'm **Ahnaf**, a **Software Developer** who loves Programming, Anime, and Minecraft. I enjoy building clean and performant web & mobile apps. I love working with **MERN, PERN, Next.js, React Native, Prisma** with a focus on writing optimized code, building scalable features, and enhancing performance & user experience (UX). I also care about developer experience (DX). My usual flow of developing a project is: Architecture Design -> Database Schema -> Backend -> Frontend.
 
 ---
 
-## 📍 Facts About Me
+## 📍 Pinpoints About Me
 
--   🌱 **Currently Learning:** Mobile App Dev with React Native
--   🛠️ **Currently Building:** Lumora - Mini Social Media Mobile App
--   🖤 **Hobbies:** 🏍️ Travel & Discover | 🔥 Fry the Friday | 🈸 Develop Modern Applications
--   😄 **Fun Fact:** I analyze & overthink daily
+-   🌱 **Currently Learning:** Advanced Prisma & Next.js
+-   🛠️ **Currently Building:** Bloggle - Blogging Platform
+-   🌀 **Hobbies:** 🏍️ Travel & Discover | 🔥 Fry the Friday | 🈸 Programming Programs
+-   😄 **Fun Fact:** I explore & overthink daily
 -   🔋 **My Charger:** Tea & Anime
 -   📎 **Favorite Dialogue:** Dattebayo (Meaning: Believe It)
 
 ---
 
-## ⚙️ Techs & Tools
+## ⚙️ Techs & Tools (need to update)
 
 ### 💻 Web App
 
@@ -96,18 +92,18 @@
 
 ---
 
-## 📊 GitHub Analytics & Streak
+## 📊 GitHub Analytics & Streak (it may suck)
 
 ![](https://github-readme-stats.vercel.app/api?username=mahnafdev&card_width=350px&theme=github_dark&hide_border=true&custom_title=GitHub+Stats+Overview&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app?user=mahnafdev&card_width=400px&theme=github_dark&hide_border=true)
 
-## 📈 Utilized Languages & Top Repos
+## 📈 Utilized Languages & Top Repos (it may suck)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahnafdev&card_width=325px&theme=github_dark&hide_border=true&custom_title=Languages+I+Utilized&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-contributor-stats.vercel.app/api?username=mahnafdev&theme=github_dark&hide_border=true&custom_title=Highly+Contributed+(Top)+Repos&limit=5&combine_all_yearly_contributions=true)
 
 ---
 
-## 📜 A Quote for Your Today
+## 📜 A Quote for Today
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&card_width=500px&theme=github_dark)
