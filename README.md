@@ -5,7 +5,7 @@
 
 ## 🔰 Basically Who Am I?
 
-🙋🏻‍♂️ Howdy! I'm **Ahnaf**, a **Software Developer** who loves Programming, Anime, and Minecraft. I enjoy building clean and performant web & mobile apps. I love working with **MERN, PERN, Next.js, React Native, Prisma** with a focus on writing optimized code, building scalable features, and enhancing performance & user experience (UX). I also care about developer experience (DX). My usual flow of developing a project is: Architecture Design -> Database Schema -> Backend -> Frontend.
+🙋🏻‍♂️ Howdy! I'm **Ahnaf**, a **Software Developer** who loves **Programming**, **Anime**, and **Minecraft**. I enjoy building clean and performant web & mobile apps. I love working with **MERN, PERN, Next.js, React Native, Prisma** with a focus on writing optimized code, building scalable features, and enhancing performance & user experience (UX). I also care about developer experience (DX). My usual flow of developing a project is: **Architecture Design** -> **Database Schema** -> **Backend** -> **Frontend**.
 
 ---
 
