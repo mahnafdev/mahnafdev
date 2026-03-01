@@ -3,24 +3,23 @@
 
 ---
 
-## 🔰 Basically Who Am I?
+## 🔰 Who Am I?
 
-🙋🏻‍♂️ Howdy! I'm **Ahnaf**, a **Software Developer** who loves **Programming**, **Anime**, and **Minecraft**. I enjoy building clean and performant web & mobile apps. I love working with **MERN, PERN, Next.js, React Native, Prisma** with a focus on writing optimized code, building scalable features, and enhancing performance & user experience (UX). I also care about developer experience (DX). My usual flow of developing a project is: **Architecture Design** -> **Database Schema** -> **Backend** -> **Frontend**.
+🙋🏻‍♂️ Howdy! I'm **Ahnaf**, a **Software Developer** at **Titonex** (*@titonex-labs*). I love **Programming**, **Anime**, and **Minecraft**. I enjoy building clean and performant web & mobile apps. I love working with **Next.js, React Native, Postgres, Prisma** with an interest in writing optimized code, building scalable features, and enhancing performance & user experience (**UX**). I also often care about developer experience (**DX**). My usual project lifecycle is: **Product & Requirement Analysis** -> **System Design** -> **DB Schema** -> **Backend** -> **Frontend** -> **Testing** -> **Deployment**.
 
 ---
 
 ## 📍 Pinpoints About Me
 
--   🌱 **Currently Learning:** Advanced Prisma & Next.js
--   🛠️ **Currently Building:** Bloggle - Blogging Platform
--   🌀 **Hobbies:** 🏍️ Travel & Discover | 🔥 Fry the Friday | 🈸 Programming Programs
--   😄 **Fun Fact:** I explore & overthink daily
--   🔋 **My Charger:** Tea & Anime
--   📎 **Favorite Dialogue:** Dattebayo (Meaning: Believe It)
+<!-- -   🌱 **Currently Learning:** ... -->
+-   🧪 **Currently Building:** Healbase - Healthcare Management System
+-   🌀 **Hobby:** 🌄 Travel
+-   😄 **Fun Fact:** I'm analytical about random stuffs
+-   📎 **Favorite Dialogue:** What a drag..
 
 ---
 
-## ⚙️ Techs & Tools (need to update)
+## ⚙️ Tech Skills (got to update at some time)
 
 ### 💻 Web App
 
@@ -83,8 +82,9 @@
 
 ## 👥 Social & Competitive Programming
 
-[![Email](https://img.shields.io/badge/email-ea4335?style=for-the-badge&logo=gmail&logoColor=ea4335&color=22222f)](mailto:mahnafdev@gmail.com)
+[![Email](https://img.shields.io/badge/email-ea4335?style=for-the-badge&logo=gmail&logoColor=ea4335&color=22222f)](mailto:mahnaf.swe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-1877ff?style=for-the-badge&logo=linkedin&logoColor=1877ff&color=22222f)](https://www.linkedin.com/in/mahnafdev)
+[![X](https://img.shields.io/badge/x-fafaff?style=for-the-badge&logo=x&logoColor=fafaff&color=22222f)](https://x.com/mahnaf_swe)
 [![Facebook](https://img.shields.io/badge/facebook-1877ff?style=for-the-badge&logo=facebook&logoColor=2888ff&color=22222f)](https://web.facebook.com/mahnafdev)
 [![CodeForces](https://img.shields.io/badge/codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=1f8acb&color=22222f)](https://codeforces.com/profile/Muhammad_Ahnaf)
 [![LeetCode](https://img.shields.io/badge/leetcode-ffa116?style=for-the-badge&logo=leetcode&logoColor=ffa116&color=22222f)](https://leetcode.com/u/mahnafpro)
@@ -92,18 +92,13 @@
 
 ---
 
-## 📊 GitHub Analytics & Streak (it may suck)
+## 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=mahnafdev&card_width=350px&theme=github_dark&hide_border=true&custom_title=GitHub+Stats+Overview&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app?user=mahnafdev&card_width=400px&theme=github_dark&hide_border=true)
-
-## 📈 Utilized Languages & Top Repos (it may suck)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahnafdev&card_width=325px&theme=github_dark&hide_border=true&custom_title=Languages+I+Utilized&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=mahnafdev&theme=github_dark&hide_border=true&custom_title=Highly+Contributed+(Top)+Repos&limit=5&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=mahnafdev&theme=github_dark&hide_border=true&custom_title=Highly+Contributed+Repos&limit=5&combine_all_yearly_contributions=true)
 
 ---
 
-## 📜 A Quote for Today
+## 📜 Quote of the Day
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&card_width=500px&theme=github_dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&card_width=450px&theme=github_dark)
