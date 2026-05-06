@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner" width="100%">
+</p>
+
 <h1 align="center">Muhammad Ahnaf</h1>
 <h2 align="center">Software Developer</h3>
 
