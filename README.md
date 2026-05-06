@@ -8,8 +8,6 @@
 
 Howdy! I'm **Ahnaf**, A Software Developer. I build full-stack web and mobile applications using **TypeScript, Next.js, Express.js, and Prisma**. My work focuses on system performance, data integrity, and user interface design. Outside of development, I spend time watching **Anime**. I have an analytical approach to problem-solving and a strong interest in improving the developer experience within codebases. Currently expanding my technical stack to include Go and Docker containerization.
 
----
-
 ## [🧰] Technical Toolkit
 
 ![JavaScript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&color=22222f)
@@ -29,8 +27,6 @@ Howdy! I'm **Ahnaf**, A Software Developer. I build full-stack web and mobile ap
 ![PostgreSQL](https://img.shields.io/badge/postgresql-648bf1?style=for-the-badge&logo=postgresql&logoColor=648bf1&color=22222f)
 ![MongoDB](https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logo=mongodb&logoColor=47a248&color=22222f)
 
----
-
 ## [🫱🏼‍🫲🏼] Let's Connect
 
 [![Email](https://img.shields.io/badge/email-ea4335?style=for-the-badge&logo=gmail&logoColor=ea4335&color=22222f)](mailto:mahnaf.swe@gmail.com)
@@ -43,8 +39,6 @@ Howdy! I'm **Ahnaf**, A Software Developer. I build full-stack web and mobile ap
 [![LeetCode](https://img.shields.io/badge/leetcode-ffa116?style=for-the-badge&logo=leetcode&logoColor=ffa116&color=22222f)](https://leetcode.com/u/mahnafpro)
 [![CodeForces](https://img.shields.io/badge/codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=1f8acb&color=22222f)](https://codeforces.com/profile/Muhammad_Ahnaf)
 [![HackerRank](https://img.shields.io/badge/hackerrank-00ba54?style=for-the-badge&logo=hackerrank&logoColor=00ba54&color=22222f)](https://www.hackerrank.com/profile/mahnafpro)
-
----
 
 ## [📄] Quote of the Day
 
