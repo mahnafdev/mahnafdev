@@ -2,107 +2,57 @@
   <img src="./banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Muhammad Ahnaf</h1>
-<h2 align="center">Software Developer</h3>
+## [👤] Who Am I?
+
+<!-- Howdy! I'm **Ahnaf**, A Software Developer who actually cares about how code feels to write and how apps feel to use. I’m deep into the **TypeScript** ecosystem, usually wrangling **Next.js**, **Express.js**, **Prisma**, and **Postgres**. I’m big on "No-BS" engineering: if it’s not scalable, type-safe, and performant, what’s the point? When I'm not staring at a terminal, I'm probably catching up on **Anime** or traveling to refresh my head. I’m naturally analytical about random stuff, which is a blessing for debugging, but a curse for everything else. -->
+
+Howdy! I'm **Ahnaf**, A Software Developer. I build full-stack web and mobile applications using **TypeScript, Next.js, Express.js, and Prisma**. My work focuses on system performance, data integrity, and user interface design. Outside of development, I spend time watching **Anime**. I have an analytical approach to problem-solving and a strong interest in improving the developer experience within codebases. Currently expanding my technical stack to include Go and Docker containerization.
 
 ---
 
-## 🔰 Who Am I?
+## [🧰] Technical Toolkit
 
-🙋🏻‍♂️ Howdy! I'm **Ahnaf**, a **Software Developer** at **Titonex** (*@titonex-labs*). I love **Programming**, **Anime**, and **Minecraft**. I enjoy building clean and performant web & mobile apps. I love working with **Next.js, React Native, Postgres, Prisma** with an interest in writing optimized code, building scalable features, and enhancing performance & user experience (**UX**). I also often care about developer experience (**DX**). My usual project lifecycle is: **Product & Requirement Analysis** -> **System Design** -> **DB Schema** -> **Backend** -> **Frontend** -> **Testing** -> **Deployment**.
-
----
-
-## 📍 Pinpoints About Me
-
-<!-- -   🌱 **Currently Learning:** ... -->
--   🧪 **Currently Building:** Healbase - Healthcare Management System
--   🌀 **Hobby:** 🌄 Travel
--   😄 **Fun Fact:** I'm analytical about random stuffs
--   📎 **Favorite Dialogue:** What a drag..
-
----
-
-## ⚙️ Tech Skills (got to update at some time)
-
-### 💻 Web App
-
-![HTML](https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html5&logoColor=e34f26&color=22222f)
-![CSS](https://img.shields.io/badge/css-8855bb?style=for-the-badge&logo=css&logoColor=7744aa&color=22222f)
 ![JavaScript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&color=22222f)
 ![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=3178c6&color=22222f)
-![NodeJS](https://img.shields.io/badge/node.js-5fa04e?style=for-the-badge&logo=node.js&logoColor=5fa04e&color=22222f)
+![Python](https://img.shields.io/badge/python-4887bc?style=for-the-badge&logo=python&logoColor=4887bc&color=22222f)
+![C++](https://img.shields.io/badge/c%2B%2B-2079bc?style=for-the-badge&logo=cplusplus&logoColor=2079bc&color=22222f)
+![Go](https://img.shields.io/badge/go-00add8?style=for-the-badge&logo=go&logoColor=00add8&color=22222f)
+
 ![Tailwind CSS](https://img.shields.io/badge/tailwind-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4&color=22222f)
-![ExpressJS](https://img.shields.io/badge/express-ffffff?style=for-the-badge&logo=express&logoColor=ffffff&color=22222f)
 ![Next.js](https://img.shields.io/badge/next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=ffffff&color=22222f)
-![React](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=61dafb&color=22222f)
-![React Router](https://img.shields.io/badge/react_router-ca4245?style=for-the-badge&logo=reactrouter&logoColor=ca4245&color=22222f)
-![DaisyUI](https://img.shields.io/badge/daisyui-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=1ad1a5&color=22222f)
-![Headless UI](https://img.shields.io/badge/headless_ui-66e3ff?style=for-the-badge&logo=headlessui&logoColor=66e3ff&color=22222f)
-![TanStack Query](https://img.shields.io/badge/tanstack_query-ff4154?style=for-the-badge&logo=reactquery&logoColor=ff4154&color=22222f)
-![Axios](https://img.shields.io/badge/axios-7a49f7?style=for-the-badge&logo=axios&logoColor=7a49f7&color=22222f)
-![React Hook Form](https://img.shields.io/badge/react_hook_form-ec5990?style=for-the-badge&logo=reacthookform&logoColor=fd6aa1&color=22222f)
-![Lucide Icons](https://img.shields.io/badge/lucide-f56565?style=for-the-badge&logo=lucide&logoColor=f56565&color=22222f)
-![Stripe](https://img.shields.io/badge/stripe-635bff?style=for-the-badge&logo=stripe&logoColor=635bff&color=22222f)
-![React Leaflet](https://img.shields.io/badge/leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=199900&color=22222f)
-![Swiper](https://img.shields.io/badge/swiper-6332f6?style=for-the-badge&logo=swiper&logoColor=6f42ff&color=22222f)
-![Firebase (Auth)](https://img.shields.io/badge/firebase-ff4c00?style=for-the-badge&logo=firebase&logoColor=ff4c00&color=22222f)
-![JSON Web Tokens](https://img.shields.io/badge/jwt-ffffff?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff&color=22222f)
-![MongoDB](https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logo=mongodb&logoColor=47a248&color=22222f)
-
-### 📱 Mobile App
-
-![Android](https://img.shields.io/badge/android-3ddc84?style=for-the-badge&logo=android&logoColor=3ddc84&color=22222f)
-![iOS](https://img.shields.io/badge/ios-ffffff?style=for-the-badge&logo=ios&logoColor=ffffff&color=22222f)
 ![React Native](https://img.shields.io/badge/react_native-61dafb?style=for-the-badge&logo=react&logoColor=61dafb&color=22222f)
 ![Expo](https://img.shields.io/badge/expo-e3dfdb?style=for-the-badge&logo=expo&logoColor=e3dfdb&color=22222f)
-![Clerk](https://img.shields.io/badge/clerk-7d58ff?style=for-the-badge&logo=clerk&logoColor=7d58ff&color=22222f)
-![Convex](https://img.shields.io/badge/convex-ee342f?style=for-the-badge&logo=convex&color=22222f)
-![Ionicons](https://img.shields.io/badge/ionicons-3880ff?style=for-the-badge&logo=ionic&logoColor=3880ff&color=22222f)
 
-### 🖥️ Software
-
-![C](https://img.shields.io/badge/c-a8b9cc?style=for-the-badge&logo=c&logoColor=a8b9cc&color=22222f)
-![C++](https://img.shields.io/badge/c%2B%2B-2079bc?style=for-the-badge&logo=cplusplus&logoColor=2079bc&color=22222f)
-![Python](https://img.shields.io/badge/python-4887bc?style=for-the-badge&logo=python&logoColor=4887bc&color=22222f)
-![MySQL](https://img.shields.io/badge/mysql-88bde5?style=for-the-badge&logo=mysql&logoColor=88bde5&color=22222f)
-
-### 🛠️ Other Tools
-
-![Git](https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=f05032&color=22222f)
-![NPM](https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=cb3837&color=22222f)
-![.ENV](https://img.shields.io/badge/.env-ecd53f?style=for-the-badge&logo=.env&logoColor=ecd53f&color=22222f)
-![Grammarly](https://img.shields.io/badge/grammarly-128e7f?style=for-the-badge&logo=grammarly&logoColor=128e7f&color=22222f)
-![Prettier](https://img.shields.io/badge/prettier-f7b93e?style=for-the-badge&logo=prettier&logoColor=f7b93e&color=22222f)
-![Markdown](https://img.shields.io/badge/markdown-ffffff?style=for-the-badge&logo=markdown&logoColor=ffffff&color=22222f)
-![ESLint](https://img.shields.io/badge/eslint-6b52e3?style=for-the-badge&logo=eslint&logoColor=6b52e3&color=22222f)
-![Excalidraw](https://img.shields.io/badge/excalidraw-6965db?style=for-the-badge&logo=excalidraw&logoColor=6965db&color=22222f)
-![Notion](https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=ffffff&color=22222f)
-![BrandFetch](https://img.shields.io/badge/brandfetch-0084ff?style=for-the-badge&logo=brandfetch&logoColor=0084ff&color=22222f)
-![Swagger](https://img.shields.io/badge/swagger-85ea2d?style=for-the-badge&logo=swagger&logoColor=85ea2d&color=22222f)
-![OBS Studio](https://img.shields.io/badge/obs-cfd1ce?style=for-the-badge&logo=obsstudio&logoColor=cfd1ce&color=22222f)
+![Express.js](https://img.shields.io/badge/express-ffffff?style=for-the-badge&logo=express&logoColor=ffffff&color=22222f)
+![Prisma](https://img.shields.io/badge/prisma-e5dee5?style=for-the-badge&logo=prisma&logoColor=e5dee5&color=22222f)
+![Docker](https://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=2496ed&color=22222f)
+![PostgreSQL](https://img.shields.io/badge/postgresql-648bf1?style=for-the-badge&logo=postgresql&logoColor=648bf1&color=22222f)
+![MongoDB](https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logo=mongodb&logoColor=47a248&color=22222f)
 
 ---
 
-## 👥 Social & Competitive Programming
+## [🫱🏼‍🫲🏼] Let's Connect
 
 [![Email](https://img.shields.io/badge/email-ea4335?style=for-the-badge&logo=gmail&logoColor=ea4335&color=22222f)](mailto:mahnaf.swe@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-1877ff?style=for-the-badge&logo=linkedin&logoColor=1877ff&color=22222f)](https://www.linkedin.com/in/mahnafdev)
-[![X](https://img.shields.io/badge/x-fafaff?style=for-the-badge&logo=x&logoColor=fafaff&color=22222f)](https://x.com/mahnaf_swe)
-[![Facebook](https://img.shields.io/badge/facebook-1877ff?style=for-the-badge&logo=facebook&logoColor=2888ff&color=22222f)](https://web.facebook.com/mahnafdev)
-[![CodeForces](https://img.shields.io/badge/codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=1f8acb&color=22222f)](https://codeforces.com/profile/Muhammad_Ahnaf)
+[![LinkedIn](https://img.shields.io/badge/linkedin-1877ff?style=for-the-badge&logo=linkedin&logoColor=1877ff&color=22222f)](https://www.linkedin.com/in/ahnafswe)
+[![X](https://img.shields.io/badge/x-fafaff?style=for-the-badge&logo=x&logoColor=fafaff&color=22222f)](https://x.com/ahnafswe)
+[![Facebook](https://img.shields.io/badge/facebook-1877ff?style=for-the-badge&logo=facebook&logoColor=2888ff&color=22222f)](https://facebook.com/ahnafswe)
+
+## [🏆] Competitive Programming
+
 [![LeetCode](https://img.shields.io/badge/leetcode-ffa116?style=for-the-badge&logo=leetcode&logoColor=ffa116&color=22222f)](https://leetcode.com/u/mahnafpro)
+[![CodeForces](https://img.shields.io/badge/codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=1f8acb&color=22222f)](https://codeforces.com/profile/Muhammad_Ahnaf)
 [![HackerRank](https://img.shields.io/badge/hackerrank-00ba54?style=for-the-badge&logo=hackerrank&logoColor=00ba54&color=22222f)](https://www.hackerrank.com/profile/mahnafpro)
 
 ---
 
-## 📊 GitHub Analytics
+## [📊] GitHub Analytics
 
-![](https://nirzak-streak-stats.vercel.app?user=mahnafdev&card_width=400px&theme=github_dark&hide_border=true)
-![](https://github-contributor-stats.vercel.app/api?username=mahnafdev&theme=github_dark&hide_border=true&custom_title=Highly+Contributed+Repos&limit=5&combine_all_yearly_contributions=true)
+![](https://nirzak-streak-stats.vercel.app?user=ahnafswe&card_width=400px&theme=github_dark&hide_border=true)
+![](https://github-contributor-stats.vercel.app/api?username=ahnafswe&theme=github_dark&hide_border=true&custom_title=Highly+Contributed+Repos&limit=5&combine_all_yearly_contributions=true)
 
 ---
 
-## 📜 Quote of the Day
+## [📄] Quote of the Day
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&card_width=450px&theme=github_dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&card_width=450px&theme=tokyonight)
