@@ -46,13 +46,6 @@ Howdy! I'm **Ahnaf**, A Software Developer. I build full-stack web and mobile ap
 
 ---
 
-## [📊] GitHub Analytics
-
-![](https://nirzak-streak-stats.vercel.app?user=ahnafswe&card_width=400px&theme=github_dark&hide_border=true)
-![](https://github-contributor-stats.vercel.app/api?username=ahnafswe&theme=github_dark&hide_border=true&custom_title=Highly+Contributed+Repos&limit=5&combine_all_yearly_contributions=true)
-
----
-
 ## [📄] Quote of the Day
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&card_width=450px&theme=tokyonight)
